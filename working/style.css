@@ -28,8 +28,9 @@ li {
 }
 
 li:hover {
-    background-color: #fff;
-    color: #0b090b;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    color: #fff;
 }
 
 a:visited {
